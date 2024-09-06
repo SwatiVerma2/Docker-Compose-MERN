@@ -118,6 +118,8 @@ volumes:
 ```
 `docker compose up -d`
 
+![image](https://github.com/user-attachments/assets/e78606b4-70e8-4163-af14-cfee2d9e38f4)
+
 The basic structure of docker-compose.yml inclues:
 
 Key Sections:
