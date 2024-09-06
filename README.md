@@ -135,6 +135,6 @@ Key Sections:
 
 3. **volumes** - Sets up persistent storage for services (like MongoDB).
 
-![image](https://github.com/user-attachments/assets/97772c0f-3538-4820-a10b-a47b9c0ec3fb)
+![image](https://github.com/user-attachments/assets/fa976778-4e62-46b1-92c8-fe8ae6c178b2)
 
 Reference -  Abhishek.Veeramalla
